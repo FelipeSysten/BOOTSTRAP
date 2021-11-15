@@ -1,0 +1,24 @@
+body {
+    font: 20px, Arial, sans-serif;
+}
+
+.quem-somos {
+    background-color: cadetblue;
+    color: blanchedalmond;
+}
+
+.margin {
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}
+
+.parceiros {
+    background-color: gainsboro;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.bg-footer {
+    background-color: cadetblue;
+    color:blanchedalmond;
+}
